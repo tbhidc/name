@@ -1,4 +1,4 @@
 b = input()
-for i in a:
+for i in b:
     print(i, end="")
 #12345678
